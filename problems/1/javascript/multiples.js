@@ -10,5 +10,3 @@ const isMultipleOf = (num, multiples) => {
 }
 
 module.exports = sumMultiples;
-
-console.log(sumMultiples([3,5], 1000));
