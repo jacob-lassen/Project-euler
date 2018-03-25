@@ -6,5 +6,3 @@ const squareSumDifference = (n) => {
 }
 
 const square = (n) => n * n;
-
-console.log(squareSumDifference(100));
